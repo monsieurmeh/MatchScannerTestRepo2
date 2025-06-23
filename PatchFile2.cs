@@ -1,0 +1,1 @@
+[HarmonyPatch("TestClass.NestedMethod")]
